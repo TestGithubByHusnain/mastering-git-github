@@ -1,4 +1,3 @@
-## welcome to git
-- this is coming from 'dev-husnain'
+## Hello git
 
 Im adding this from feature-branch
