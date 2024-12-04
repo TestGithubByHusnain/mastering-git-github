@@ -1,4 +1,3 @@
-## Heeyoo everyone welcome to my github account.
--- yooo john here
+## Hello git
 
 Im adding this from feature-branch
